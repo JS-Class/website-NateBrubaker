@@ -5,12 +5,8 @@ header{
     font-size: 2.0em;
     line-height: 2em;
 }
-
 #Main{
-    font: bold 1em/1em italic Arial, Helvetica, sans-serif;
-    font-weight: 900;
-    color:chartreuse;
-    line-height: 3em;
+    color: aliceblue;
 }
 
 #Footer{
@@ -39,4 +35,33 @@ h6 {
 }
 .Dog{
     color: crimson;
+}
+
+ul
+{
+    list-style-type: square;
+    list-style-position: inside;
+}
+nav{
+    background-color: aqua;
+    line-height: 200%;
+
+}
+
+nav li
+{
+    display: inline;
+    padding-right: 40px;
+    list-style-type : none;
+}
+
+nav a:link
+{
+    color: white;
+    text-decoration: none;
+
+}
+nav a:visited
+{
+    color: white;
 }
