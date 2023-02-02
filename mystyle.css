@@ -1,0 +1,67 @@
+header{
+   color:rgb(137, 178, 34);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2.0em;
+    line-height: 2em;
+}
+#Main{
+    color: aliceblue;
+}
+
+#Footer{
+    color: chartreuse;
+}
+body {
+    background-color: rgb(6, 44, 2);
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#about {
+    color: rgb(209, 244, 10);
+}
+
+.Hunting {
+    color: crimson;
+}
+.Dog{
+    color: crimson;
+}
+
+ul
+{
+    list-style-type: square;
+    list-style-position: inside;
+}
+nav{
+    background-color: aqua;
+    line-height: 200%;
+
+}
+
+nav li
+{
+    display: inline;
+    padding-right: 40px;
+    list-style-type : none;
+}
+
+nav a:link
+{
+    color: white;
+    text-decoration: none;
+
+}
+nav a:visited
+{
+    color: white;
+}
